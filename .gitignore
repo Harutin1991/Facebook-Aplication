@@ -1,1 +1,5 @@
 /harut
+harut/
+harut/*
+.harut/
+./harut
